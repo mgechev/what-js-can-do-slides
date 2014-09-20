@@ -32,13 +32,13 @@
         "id": "content",
         "class": "step",
         "data": {
-            "x": 6000,
+            "x": 4000,
             "y": 0,
             "z": 0,
             "scale": 1,
             "rotate-x": 0,
-            "rotate-y": 0,
-            "rotate-z": 90
+            "rotate-y": 90,
+            "rotate-z": 0
         }
     },
     {
@@ -46,8 +46,8 @@
         "id": "snowcrash-about",
         "class": "step",
         "data": {
-            "x": 9000,
-            "y": 0,
+            "x": 4000,
+            "y": 1000,
             "z": 0,
             "scale": 1,
             "rotate-x": 0,
@@ -60,13 +60,13 @@
         "id": "technologies",
         "class": "step",
         "data": {
-            "x": 12000,
-            "y": 0,
-            "z": 0,
+            "x": 4500,
+            "y": 1500,
+            "z": 1000,
             "scale": 1,
-            "rotate-x": 0,
+            "rotate-x": 90,
             "rotate-y": 0,
-            "rotate-z": 90
+            "rotate-z": 0
         }
     },
     {
@@ -74,9 +74,9 @@
         "id": "webrtc",
         "class": "step",
         "data": {
-            "x": 15000,
-            "y": 0,
-            "z": 0,
+            "x": 4500,
+            "y": 3500,
+            "z": 1000,
             "scale": 1,
             "rotate-x": 0,
             "rotate-y": 0,
@@ -88,13 +88,13 @@
         "id": "webrtc-about",
         "class": "step",
         "data": {
-            "x": 18000,
-            "y": 0,
-            "z": 0,
+            "x": 5500,
+            "y": 3500,
+            "z": 1000,
             "scale": 1,
             "rotate-x": 0,
             "rotate-y": 0,
-            "rotate-z": 90
+            "rotate-z": 0
         }
     },
     {
@@ -102,9 +102,9 @@
         "id": "webrtc-about-2",
         "class": "step",
         "data": {
-            "x": 21000,
-            "y": 0,
-            "z": 0,
+            "x": 7000,
+            "y": 3500,
+            "z": 1000,
             "scale": 1,
             "rotate-x": 0,
             "rotate-y": 0,
@@ -116,9 +116,9 @@
         "id": "webrtc-funny",
         "class": "step",
         "data": {
-            "x": 24000,
-            "y": 0,
-            "z": 0,
+            "x": 8500,
+            "y": 3500,
+            "z": 1000,
             "scale": 1,
             "rotate-x": 0,
             "rotate-y": 0,
@@ -130,13 +130,13 @@
         "id": "why-not-flash",
         "class": "step",
         "data": {
-            "x": 27000,
-            "y": 0,
-            "z": 0,
+            "x": 8500,
+            "y": 4500,
+            "z": 1000,
             "scale": 1,
             "rotate-x": 0,
             "rotate-y": 0,
-            "rotate-z": 90
+            "rotate-z": 0
         }
     },
     {
@@ -144,9 +144,9 @@
         "id": "seriously",
         "class": "step",
         "data": {
-            "x": 30000,
-            "y": 0,
-            "z": 0,
+            "x": 8500,
+            "y": 6500,
+            "z": 1000,
             "scale": 1,
             "rotate-x": 0,
             "rotate-y": 0,
@@ -158,13 +158,13 @@
         "id": "bazinga",
         "class": "step",
         "data": {
-            "x": 33000,
-            "y": 0,
-            "z": 0,
+            "x": 8500,
+            "y": 6500,
+            "z": 1000,
             "scale": 1,
-            "rotate-x": 0,
+            "rotate-x": 90,
             "rotate-y": 0,
-            "rotate-z": 90
+            "rotate-z": 0
         }
     },
     {
@@ -172,13 +172,13 @@
         "id": "flash-is",
         "class": "step",
         "data": {
-            "x": 36000,
-            "y": 0,
-            "z": 0,
+            "x": 10500,
+            "y": 6500,
+            "z": 1000,
             "scale": 1,
             "rotate-x": 0,
-            "rotate-y": 0,
-            "rotate-z": 90
+            "rotate-y": 90,
+            "rotate-z": 0
         }
     },
     {
@@ -186,13 +186,13 @@
         "id": "proprietary-software",
         "class": "step",
         "data": {
-            "x": 39000,
-            "y": 0,
-            "z": 0,
+            "x": 10500,
+            "y": 8500,
+            "z": 1000,
             "scale": 1,
             "rotate-x": 0,
-            "rotate-y": 0,
-            "rotate-z": 90
+            "rotate-y": 90,
+            "rotate-z": 0
         }
     },
     {
@@ -200,13 +200,13 @@
         "id": "browser-plugin",
         "class": "step",
         "data": {
-            "x": 42000,
-            "y": 0,
-            "z": 0,
+            "x": 10500,
+            "y": 9500,
+            "z": 1000,
             "scale": 1,
             "rotate-x": 0,
-            "rotate-y": 0,
-            "rotate-z": 90
+            "rotate-y": 90,
+            "rotate-z": 0
         }
     },
     {
@@ -214,13 +214,13 @@
         "id": "limited-for-mobile-usage",
         "class": "step",
         "data": {
-            "x": 45000,
-            "y": 0,
-            "z": 0,
+            "x": 10500,
+            "y": 10500,
+            "z": 1000,
             "scale": 1,
             "rotate-x": 0,
-            "rotate-y": 0,
-            "rotate-z": 90
+            "rotate-y": 90,
+            "rotate-z": 0
         }
     },
     {
@@ -228,13 +228,13 @@
         "id": "and-come-on",
         "class": "step",
         "data": {
-            "x": 48000,
-            "y": 0,
-            "z": 0,
+            "x": 10500,
+            "y": 11500,
+            "z": 1000,
             "scale": 1,
             "rotate-x": 0,
-            "rotate-y": 0,
-            "rotate-z": 90
+            "rotate-y": 90,
+            "rotate-z": 0
         }
     },
     {
@@ -242,13 +242,13 @@
         "id": "so-what-about-webrtc",
         "class": "step",
         "data": {
-            "x": 51000,
-            "y": 0,
-            "z": 0,
+            "x": 10500,
+            "y": 11500,
+            "z": 3000,
             "scale": 1,
             "rotate-x": 0,
             "rotate-y": 0,
-            "rotate-z": 90
+            "rotate-z": 0
         }
     },
     {
@@ -256,9 +256,9 @@
         "id": "webrtc-architecture",
         "class": "step",
         "data": {
-            "x": 54000,
-            "y": 0,
-            "z": 0,
+            "x": 13500,
+            "y": 11500,
+            "z": 3000,
             "scale": 1,
             "rotate-x": 0,
             "rotate-y": 0,
@@ -270,13 +270,13 @@
         "id": "webrtc-demo",
         "class": "step",
         "data": {
-            "x": 57000,
-            "y": 0,
-            "z": 0,
+            "x": 13500,
+            "y": 13500,
+            "z": 3200,
             "scale": 1,
             "rotate-x": 0,
-            "rotate-y": 0,
-            "rotate-z": 90
+            "rotate-y": 90,
+            "rotate-z": 0
         }
     },
     {
@@ -284,9 +284,9 @@
         "id": "html5-canvas",
         "class": "step",
         "data": {
-            "x": 60000,
-            "y": 0,
-            "z": 0,
+            "x": 13500,
+            "y": 16500,
+            "z": 5200,
             "scale": 1,
             "rotate-x": 0,
             "rotate-y": 0,
@@ -298,13 +298,13 @@
         "id": "canvas",
         "class": "step",
         "data": {
-            "x": 63000,
-            "y": 0,
-            "z": 0,
+            "x": 13500,
+            "y": 16500,
+            "z": 7200,
             "scale": 1,
             "rotate-x": 0,
-            "rotate-y": 0,
-            "rotate-z": 90
+            "rotate-y": 90,
+            "rotate-z": 0
         }
     },
     {
@@ -312,11 +312,11 @@
         "id": "canvas-demo",
         "class": "step",
         "data": {
-            "x": 66000,
-            "y": 0,
-            "z": 0,
+            "x": 13800,
+            "y": 16500,
+            "z": 9200,
             "scale": 1,
-            "rotate-x": 0,
+            "rotate-x": 90,
             "rotate-y": 0,
             "rotate-z": 90
         }
@@ -326,13 +326,13 @@
         "id": "websockets",
         "class": "step",
         "data": {
-            "x": 69000,
-            "y": 0,
-            "z": 0,
+            "x": 15800,
+            "y": 16500,
+            "z": 9200,
             "scale": 1,
-            "rotate-x": 0,
+            "rotate-x": 90,
             "rotate-y": 0,
-            "rotate-z": 90
+            "rotate-z": 0
         }
     },
     {
@@ -340,11 +340,11 @@
         "id": "websockets-intro",
         "class": "step",
         "data": {
-            "x": 72000,
-            "y": 0,
-            "z": 0,
+            "x": 16800,
+            "y": 16500,
+            "z": 9200,
             "scale": 1,
-            "rotate-x": 0,
+            "rotate-x": 90,
             "rotate-y": 0,
             "rotate-z": 90
         }
@@ -354,11 +354,25 @@
         "id": "websockets-demo",
         "class": "step",
         "data": {
-            "x": 75000,
-            "y": 0,
-            "z": 0,
+            "x": 17800,
+            "y": 16500,
+            "z": 9200,
             "scale": 1,
-            "rotate-x": 0,
+            "rotate-x": 90,
+            "rotate-y": 0,
+            "rotate-z": 0
+        }
+    },
+    {
+        "uri": "sticks.html",
+        "id": "sticks",
+        "class": "step",
+        "data": {
+            "x": 19000,
+            "y": 16500,
+            "z": 9200,
+            "scale": 1,
+            "rotate-x": 90,
             "rotate-y": 0,
             "rotate-z": 90
         }
@@ -368,13 +382,13 @@
         "id": "websockets-canvas-imagination",
         "class": "step",
         "data": {
-            "x": 78000,
-            "y": 0,
-            "z": 0,
+            "x": 21000,
+            "y": 16500,
+            "z": 9200,
             "scale": 1,
-            "rotate-x": 0,
+            "rotate-x": 90,
             "rotate-y": 0,
-            "rotate-z": 90
+            "rotate-z": 0
         }
     },
     {
@@ -382,11 +396,11 @@
         "id": "vnc-demo",
         "class": "step",
         "data": {
-            "x": 81000,
-            "y": 0,
-            "z": 0,
+            "x": 23000,
+            "y": 17500,
+            "z": 10200,
             "scale": 1,
-            "rotate-x": 0,
+            "rotate-x": 90,
             "rotate-y": 0,
             "rotate-z": 90
         }
@@ -396,13 +410,13 @@
         "id": "vnc-architecture",
         "class": "step",
         "data": {
-            "x": 84000,
-            "y": 0,
-            "z": 0,
+            "x": 25000,
+            "y": 17500,
+            "z": 10200,
             "scale": 1,
-            "rotate-x": 0,
+            "rotate-x": 90,
             "rotate-y": 0,
-            "rotate-z": 90
+            "rotate-z": 0
         }
     },
     {
@@ -410,11 +424,11 @@
         "id": "vnc-easy",
         "class": "step",
         "data": {
-            "x": 87000,
-            "y": 0,
-            "z": 0,
-            "scale": 1,
-            "rotate-x": 0,
+            "x": 25000,
+            "y": 20500,
+            "z": 10200,
+            "scale": 0.1,
+            "rotate-x": 90,
             "rotate-y": 0,
             "rotate-z": 90
         }
@@ -424,11 +438,11 @@
         "id": "and-now",
         "class": "step",
         "data": {
-            "x": 90000,
-            "y": 0,
-            "z": 0,
+            "x": 26000,
+            "y": 20500,
+            "z": 10200,
             "scale": 1,
-            "rotate-x": 0,
+            "rotate-x": 90,
             "rotate-y": 0,
             "rotate-z": 90
         }
@@ -438,13 +452,13 @@
         "id": "the-architecture-of-snow-crash",
         "class": "step",
         "data": {
-            "x": 93000,
-            "y": 0,
-            "z": 0,
+            "x": 29000,
+            "y": 20500,
+            "z": 10200,
             "scale": 1,
-            "rotate-x": 0,
+            "rotate-x": 90,
             "rotate-y": 0,
-            "rotate-z": 90
+            "rotate-z": 0
         }
     },
     {
@@ -452,11 +466,11 @@
         "id": "snow-crash-architecture",
         "class": "step",
         "data": {
-            "x": 96000,
-            "y": 0,
-            "z": 0,
+            "x": 31000,
+            "y": 20500,
+            "z": 10200,
             "scale": 1,
-            "rotate-x": 0,
+            "rotate-x": 90,
             "rotate-y": 0,
             "rotate-z": 90
         }
@@ -466,11 +480,11 @@
         "id": "thank-you",
         "class": "step",
         "data": {
-            "x": 99000,
-            "y": 0,
-            "z": 0,
-            "scale": 1,
-            "rotate-x": 0,
+            "x": 31000,
+            "y": 20500,
+            "z": 10200,
+            "scale": 100,
+            "rotate-x": 90,
             "rotate-y": 0,
             "rotate-z": 90
         }
