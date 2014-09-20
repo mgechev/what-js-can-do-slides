@@ -378,6 +378,20 @@
         }
     },
     {
+        "uri": "movementjs.html",
+        "id": "movementjs",
+        "class": "step",
+        "data": {
+            "x": 21000,
+            "y": 16500,
+            "z": 13200,
+            "scale": 1,
+            "rotate-x": 90,
+            "rotate-y": 0,
+            "rotate-z": 0
+        }
+    },
+    {
         "uri": "websockets-canvas-imagination.html",
         "id": "websockets-canvas-imagination",
         "class": "step",
